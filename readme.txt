@@ -1,2 +1,3 @@
 My first Git Exercise.
-Hello Handsome
+Hello Handsome.
+Git is a disteibuted version control system.
