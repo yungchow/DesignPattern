@@ -1,3 +1,2 @@
-My first Git Exercise.
-Hello Handsome.
-Git is a disteibuted version control system.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
